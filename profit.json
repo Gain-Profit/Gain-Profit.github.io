@@ -1,0 +1,38 @@
+{
+    "app" : {
+        "gudang" : {
+            "versi" : "3.0.1.0",
+            "download" : "https://dl.dropboxusercontent.com/s/zjigvpc431wkj2g/gudang-3.0.1.0.rar?dl=0",
+			"tgl release": "2015-02-05"
+        },
+        "kasir" : {
+            "versi" : "",
+            "download" : "",
+			"tgl release": ""
+        },
+        "accounting" : {
+            "versi" : "",
+            "download" : "",
+			"tgl release": ""
+        },
+        "POS_server" : {
+            "versi" : "",
+            "download" : "",
+			"tgl release": ""
+        }
+    },
+    "tools" : {
+        "cekVersi" : {
+            "versi" : "",
+            "download" : "",
+			"tgl release": ""
+        }
+    },
+    "laporan" : {
+        "jual" : {
+            "versi" : "",
+            "download" : "",
+			"tgl release": ""
+        }
+    }
+}
