@@ -1,9 +1,9 @@
 {
     "app" : {
         "gudang" : {
-			"versi" : "3.0.1.0",
-			"download" : "https://github.com/Gain-Profit/Gudang/releases/download/v3.0.1.0/gudang-3.0.1.0.rar",
-			"tgl release": "2015-02-05"
+			"versi" : "3.0.2.0",
+			"download" : "https://github.com/Gain-Profit/Gudang/releases/download/v3.0.2.0/gudang-3.0.2.0.zip",
+			"tgl release": "2015-02-22"
         },
         "kasir" : {
 			"versi" : "2.6.1.0",
