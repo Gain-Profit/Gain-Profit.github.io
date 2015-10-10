@@ -21,8 +21,8 @@
     {
       "nama": "kasir.exe",
       "path": "../",
-      "versi": "2.7.1.0",
-      "download": "https://github.com/Gain-Profit/Kasir/releases/download/v2.7.1.0/kasir-2.7.1.0.zip"
+      "versi": "2.8.1.0",
+      "download": "https://github.com/Gain-Profit/Kasir/releases/download/v2.8.1.0/kasir-2.8.1.0.zip"
     },
     {
       "nama": "a_asset.fr3",
@@ -129,7 +129,7 @@
     {
       "nama": "gp_barcode.fr3",
       "path": "../laporan/",
-      "versi": "...",
+      "versi": "2.1.0.0",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_barcode.fr3"
     },
     {
