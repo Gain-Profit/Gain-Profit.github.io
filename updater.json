@@ -15,14 +15,20 @@
     {
       "nama": "pos_server.exe",
       "path": "../",
-      "versi": "2.9.1.0",
-      "download": "https://github.com/Gain-Profit/Merchandiser/releases/download/v2.9.1.0/pos_server-2.9.1.0.zip"
+      "versi": "2.9.2.0",
+      "download": "https://github.com/Gain-Profit/Merchandiser/releases/download/v2.9.2.0/pos_server-2.9.2.0.zip"
     },
+	{
+      "nama": "payroll.exe",
+      "path": "../",
+      "versi": "1.0.0.0",
+      "download": "https://github.com/Gain-Profit/Payroll/releases/download/v1.0.0.0/payroll-1.0.0.0.zip"
+    },	
     {
       "nama": "kasir.exe",
       "path": "../",
-      "versi": "2.8.1.0",
-      "download": "https://github.com/Gain-Profit/Kasir/releases/download/v2.8.1.0/kasir-2.8.1.0.zip"
+      "versi": "2.9.1.0",
+      "download": "https://github.com/Gain-Profit/Kasir/releases/download/v2.9.1.0/kasir-2.9.1.0.zip"
     },
     {
       "nama": "a_asset.fr3",
