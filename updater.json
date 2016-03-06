@@ -2,277 +2,277 @@
   "profit": [
     {
       "nama": "gudang.exe",
-      "path": "../",
+      "path": "/",
       "versi": "3.3.2.0",
       "download": "https://github.com/Gain-Profit/Gudang/releases/download/v3.3.2.0/gudang-3.3.2.0.zip"
     },
     {
       "nama": "accounting.exe",
-      "path": "../",
+      "path": "/",
       "versi": "1.4.1.0",
       "download": "https://github.com/Gain-Profit/akuntansi/releases/download/v1.4.1.0/accounting-1.4.1.0.zip"
     },
     {
       "nama": "pos_server.exe",
-      "path": "../",
+      "path": "/",
       "versi": "2.9.2.0",
       "download": "https://github.com/Gain-Profit/Merchandiser/releases/download/v2.9.2.0/pos_server-2.9.2.0.zip"
     },
 	{
       "nama": "payroll.exe",
-      "path": "../",
+      "path": "/",
       "versi": "1.0.0.0",
       "download": "https://github.com/Gain-Profit/Payroll/releases/download/v1.0.0.0/payroll-1.0.0.0.zip"
     },	
     {
       "nama": "kasir.exe",
-      "path": "../",
+      "path": "/",
       "versi": "2.9.2.0",
       "download": "https://github.com/Gain-Profit/Kasir/releases/download/v2.9.2.0/kasir-2.9.2.0.zip"
     },
     {
       "nama": "a_asset.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "1.4.1.1",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_asset.fr3"
     },
     {
       "nama": "a_buku_besar.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_buku_besar.fr3"
     },
     {
       "nama": "a_daftar_akun.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "1.1.1.1",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_daftar_akun.fr3"
     },
     {
       "nama": "a_jurnal_global.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_jurnal_global.fr3"
     },
     {
       "nama": "a_jurnal_hutang.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_jurnal_hutang.fr3"
     },
     {
       "nama": "a_jurnal_kas_keluar.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_jurnal_kas_keluar.fr3"
     },
     {
       "nama": "a_jurnal_kas_masuk.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_jurnal_kas_masuk.fr3"
     },
     {
       "nama": "a_jurnal_pembayaran_hutang.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_jurnal_pembayaran_hutang.fr3"
     },
     {
       "nama": "a_jurnal_pembayaran_piutang.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_jurnal_pembayaran_piutang.fr3"
     },
     {
       "nama": "a_jurnal_pembelian.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_jurnal_pembelian.fr3"
     },
     {
       "nama": "a_jurnal_penjualan.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_jurnal_penjualan.fr3"
     },
     {
       "nama": "a_jurnal_piutang.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_jurnal_piutang.fr3"
     },
     {
       "nama": "a_jurnal_umum.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_jurnal_umum.fr3"
     },
     {
       "nama": "a_laba_rugi.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_laba_rugi.fr3"
     },
     {
       "nama": "a_neraca.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_neraca.fr3"
     },
     {
       "nama": "a_trial_balance.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/a_trial_balance.fr3"
     },
     {
       "nama": "gp_barang_supplier.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_barang_supplier.fr3"
     },
     {
       "nama": "gp_barcode.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "2.1.0.0",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_barcode.fr3"
     },
     {
       "nama": "gp_gross.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_gross.fr3"
     },
     {
       "nama": "gp_kirim_rinci.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_kirim_rinci.fr3"
     },
     {
       "nama": "gp_koreksi_rinci.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_koreksi_rinci.fr3"
     },
     {
       "nama": "gp_mutasi_brg.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "2.1..",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_mutasi_brg.fr3"
     },
     {
       "nama": "gp_mutasi_global_stok.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_mutasi_global_stok.fr3"
     },
     {
       "nama": "gp_mutasi_global_uang.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_mutasi_global_uang.fr3"
     },
     {
       "nama": "gp_planogram.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_planogram.fr3"
     },
     {
       "nama": "gp_purchase_rinci.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_purchase_rinci.fr3"
     },
     {
       "nama": "gp_real_card.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_real_card.fr3"
     },
     {
       "nama": "gp_receipt_rinci.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_receipt_rinci.fr3"
     },
     {
       "nama": "gp_return_jual_rinci.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_return_jual_rinci.fr3"
     },
     {
       "nama": "gp_return_kirim_rinci.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_return_kirim_rinci.fr3"
     },
     {
       "nama": "gp_return_rinci.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_return_rinci.fr3"
     },
     {
       "nama": "gp_stok_out_harian.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "2.1..",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/gp_stok_out_harian.fr3"
     },
     {
       "nama": "k_struk_retail.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/k_struk_retail.fr3"
     },
     {
       "nama": "k_struk_retail_k.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/k_struk_retail_k.fr3"
     },
     {
       "nama": "p_daftar_barang.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/p_daftar_barang.fr3"
     },
     {
       "nama": "p_daftar_pelanggan.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "1.1.1.1",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/p_daftar_pelanggan.fr3"
     },
     {
       "nama": "p_daftar_supplier.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/p_daftar_supplier.fr3"
     },
     {
       "nama": "p_jual_item_harian.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/p_jual_item_harian.fr3"
     },
     {
       "nama": "p_persiapan_SO.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/p_persiapan_SO.fr3"
     },
     {
       "nama": "p_setor_kasir.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/p_setor_kasir.fr3"
     },
     {
       "nama": "p_setor_kasir_detail.fr3",
-      "path": "../laporan/",
+      "path": "/laporan/",
       "versi": "...",
       "download": "https://raw.githubusercontent.com/Gain-Profit/laporan/master/p_setor_kasir_detail.fr3"
     }
