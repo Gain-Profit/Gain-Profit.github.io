@@ -34,6 +34,41 @@
       "md5_file":"DDB08534ABB2D5B859627FC51337C58F",
       "versi":"2.9.2.0",
       "download":"https://github.com/Gain-Profit/Merchandiser/releases/download/v2.9.2.0/pos_server-2.9.2.0.zip"
+    },
+    {
+      "nama":"CheckClock.exe",
+      "path":"/Tools/",
+      "md5_file":"9D5CA8E10762D702E6C6C5ADEA720FE9",
+      "versi":"1.1.1.0",
+      "download":"https://github.com/Gain-Profit/Tools/releases/download/v1.1.1.0/CheckClock-1.1.1.0.zip"
+    },
+    {
+      "nama":"FRdesign.exe",
+      "path":"/Tools/",
+      "md5_file":"9F8AB23473120FD30496649E64B0A4B0",
+      "versi":"1.1.1.0",
+      "download":"https://github.com/Gain-Profit/Tools/releases/download/v1.1.1.0/FRdesign-1.1.1.0.zip"
+    },
+    {
+      "nama":"FRShow.exe",
+      "path":"/Tools/",
+      "md5_file":"A48986E736110BCDB63C2567471E5B59",
+      "versi":"1.1.1.0",
+      "download":"https://github.com/Gain-Profit/Tools/releases/download/v1.1.1.0/FRShow-1.1.1.0.zip"
+    },
+    {
+      "nama":"koneksi.exe",
+      "path":"/Tools/",
+      "md5_file":"8D9736D0A8F2A7352F60BD6779C35815",
+      "versi":"1.1.1.0",
+      "download":"https://github.com/Gain-Profit/Tools/releases/download/v1.1.1.0/koneksi-1.1.1.0.zip"
+    },
+    {
+      "nama":"perbarui.exe",
+      "path":"/Tools/",
+      "md5_file":"59AAD2EA1584D09528B623F3D4E27361",
+      "versi":"1.1.1.0",
+      "download":"https://github.com/Gain-Profit/Tools/releases/download/v1.1.1.0/perbarui-1.1.1.0.zip"
     }
   ]
 }
