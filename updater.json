@@ -1,22 +1,22 @@
 {
   "profit": [
     {
-      "nama": "gudang.exe",
-      "path": "/",
-      "versi": "3.3.2.0",
-      "download": "https://github.com/Gain-Profit/Gudang/releases/download/v3.3.2.0/gudang-3.3.2.0.zip"
-    },
-    {
       "nama": "accounting.exe",
       "path": "/",
       "versi": "1.4.1.0",
       "download": "https://github.com/Gain-Profit/akuntansi/releases/download/v1.4.1.0/accounting-1.4.1.0.zip"
     },
     {
-      "nama": "pos_server.exe",
+      "nama": "gudang.exe",
+      "path": "/",
+      "versi": "3.3.2.0",
+      "download": "https://github.com/Gain-Profit/Gudang/releases/download/v3.3.2.0/gudang-3.3.2.0.zip"
+    },
+    {
+      "nama": "kasir.exe",
       "path": "/",
       "versi": "2.9.2.0",
-      "download": "https://github.com/Gain-Profit/Merchandiser/releases/download/v2.9.2.0/pos_server-2.9.2.0.zip"
+      "download": "https://github.com/Gain-Profit/Kasir/releases/download/v2.9.2.0/kasir-2.9.2.0.zip"
     },
 	{
       "nama": "payroll.exe",
@@ -25,10 +25,10 @@
       "download": "https://github.com/Gain-Profit/Payroll/releases/download/v1.2.1.0/payroll-1.2.1.0.zip"
     },	
     {
-      "nama": "kasir.exe",
+      "nama": "pos_server.exe",
       "path": "/",
       "versi": "2.9.2.0",
-      "download": "https://github.com/Gain-Profit/Kasir/releases/download/v2.9.2.0/kasir-2.9.2.0.zip"
+      "download": "https://github.com/Gain-Profit/Merchandiser/releases/download/v2.9.2.0/pos_server-2.9.2.0.zip"
     }
   ]
 }
