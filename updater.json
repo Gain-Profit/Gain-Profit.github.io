@@ -3,9 +3,9 @@
     {
       "nama":"accounting.exe",
       "path":"/",
-      "md5_file":"EBCA482DBC7AD51A30F5C39D356EDDFC",
-      "versi":"2.0.1.0",
-      "download":"https://github.com/Gain-Profit/Akuntansi/releases/download/v2.0.1.0/accounting-2.0.1.0.zip"
+      "md5_file":"6478F92F63A80FA1B886487154139268",
+      "versi":"2.0.2.0",
+      "download":"https://github.com/Gain-Profit/Akuntansi/releases/download/v2.0.2.0/accounting-2.0.2.0.zip"
     },
     {
       "nama":"gudang.exe",
@@ -17,9 +17,9 @@
     {
       "nama":"kasir.exe",
       "path":"/",
-      "md5_file":"C234F1A940A468939BE3E86C47F3A1E5",
-      "versi":"3.0.1.0",
-      "download":"https://github.com/Gain-Profit/Kasir/releases/download/v3.0.1.0/kasir-3.0.1.0.zip"
+      "md5_file":"C413AB369343A1EA39B639C7B9571B7E",
+      "versi":"3.1.1.0",
+      "download":"https://github.com/Gain-Profit/Kasir/releases/download/v3.1.1.0/kasir-3.1.1.0.zip"
     },
     {
       "nama":"payroll.exe",
