@@ -10,16 +10,16 @@
     {
       "nama":"gudang.exe",
       "path":"/",
-      "md5_file":"A013C6B50C6E0EEA73B3F8C66CC8434D",
-      "versi":"4.1.1.0",
-      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v4.1.1.0/gudang-4.1.1.0.zip"
+      "md5_file":"764B2A8F112E6847126E9CA08072F066",
+      "versi":"4.1.3.0",
+      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v4.1.3.0/gudang-4.1.3.0.zip"
     },
     {
       "nama":"kasir.exe",
       "path":"/",
-      "md5_file":"C413AB369343A1EA39B639C7B9571B7E",
-      "versi":"3.1.1.0",
-      "download":"https://github.com/Gain-Profit/Kasir/releases/download/v3.1.1.0/kasir-3.1.1.0.zip"
+      "md5_file":"75349CEF3DA58EB6E6F9AE9F0FBC7A62",
+      "versi":"3.1.2.0",
+      "download":"https://github.com/Gain-Profit/Kasir/releases/download/v3.1.2.0/kasir-3.1.2.0.zip"
     },
     {
       "nama":"payroll.exe",
