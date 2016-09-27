@@ -10,9 +10,9 @@
     {
       "nama":"gudang.exe",
       "path":"/",
-      "md5_file":"B1D22FBFC46B74E96B6B6F0C3188ECE2",
-      "versi":"4.1.4.0",
-      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v4.1.4.0/gudang-4.1.4.0.zip"
+      "md5_file":"68C4C93123642EC81FF92B6473DCB13F",
+      "versi":"4.1.5.0",
+      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v4.1.5.0/gudang-4.1.5.0.zip"
     },
     {
       "nama":"kasir.exe",
@@ -31,9 +31,9 @@
     {
       "nama":"pos_server.exe",
       "path":"/",
-      "md5_file":"88C10DC3846444473BD7E24448DCD945",
-      "versi":"3.0.1.0",
-      "download":"https://github.com/Gain-Profit/Merchandiser/releases/download/v3.0.1.0/pos_server-3.0.1.0.zip"
+      "md5_file":"2AC668B3A0065D800B7CC60A72892723",
+      "versi":"3.0.2.0",
+      "download":"https://github.com/Gain-Profit/Merchandiser/releases/download/v3.0.2.0/pos_server-3.0.2.0.zip"
     },
     {
       "nama":"CheckClock.exe",
