@@ -3,37 +3,37 @@
     {
       "nama":"accounting.exe",
       "path":"/",
-      "md5_file":"6478F92F63A80FA1B886487154139268",
-      "versi":"2.0.2.0",
-      "download":"https://github.com/Gain-Profit/Akuntansi/releases/download/v2.0.2.0/accounting-2.0.2.0.zip"
+      "md5_file":"01C85562B94D704BA25712D0FD250217",
+      "versi":"2.0.3.0",
+      "download":"https://github.com/Gain-Profit/Akuntansi/releases/download/v2.0.3.0/accounting-2.0.3.0.zip"
     },
     {
       "nama":"gudang.exe",
       "path":"/",
-      "md5_file":"68C4C93123642EC81FF92B6473DCB13F",
-      "versi":"4.1.5.0",
-      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v4.1.5.0/gudang-4.1.5.0.zip"
+      "md5_file":"2F950092AB9E6FA23092262AC06BD32A",
+      "versi":"4.1.6.0",
+      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v4.1.6.0/gudang-4.1.6.0.zip"
     },
     {
       "nama":"kasir.exe",
       "path":"/",
-      "md5_file":"614937B8D49DB54B11E3931E7DDEF639",
-      "versi":"3.1.3.0",
-      "download":"https://github.com/Gain-Profit/Kasir/releases/download/v3.1.3.0/kasir-3.1.3.0.zip"
+      "md5_file":"4B639436266A39C735F3E45D950D548A",
+      "versi":"3.1.5.0",
+      "download":"https://github.com/Gain-Profit/Kasir/releases/download/v3.1.5.0/kasir-3.1.5.0.zip"
     },
     {
       "nama":"payroll.exe",
       "path":"/",
-      "md5_file":"8855657AD18E9DED2244EAD224299CB8",
-      "versi":"1.2.4.0",
-      "download":"https://github.com/Gain-Profit/Payroll/releases/download/v1.2.4.0/payroll-1.2.4.0.zip"
+      "md5_file":"EF44B72BB8E571DDE47B89286028B62D",
+      "versi":"1.2.5.0",
+      "download":"https://github.com/Gain-Profit/Payroll/releases/download/v1.2.5.0/payroll-1.2.5.0.zip"
     },
     {
       "nama":"pos_server.exe",
       "path":"/",
-      "md5_file":"F966669635584C530B05DE95C0AB1707",
-      "versi":"3.0.3.0",
-      "download":"https://github.com/Gain-Profit/Merchandiser/releases/download/v3.0.3.0/pos_server-3.0.3.0.zip"
+      "md5_file":"1332C9A56365D6C57CC271DF57FAE739",
+      "versi":"3.0.4.0",
+      "download":"https://github.com/Gain-Profit/Merchandiser/releases/download/v3.0.4.0/pos_server-3.0.4.0.zip"
     },
     {
       "nama":"CheckClock.exe",
@@ -59,9 +59,9 @@
     {
       "nama":"koneksi.exe",
       "path":"/Tools/",
-      "md5_file":"61763A8834E2B8ED80845C25D6ACB24C",
-      "versi":"1.1.2.0",
-      "download":"https://github.com/Gain-Profit/Tools/releases/download/v1.1.2.0/koneksi-1.1.2.0.zip"
+      "md5_file":"3ECC43A54253DB0DCBB1DEE1B1A2BE56",
+      "versi":"1.1.3.0",
+      "download":"https://github.com/Gain-Profit/Tools/releases/download/v1.1.3.0/koneksi-1.1.3.0.zip"
     }
   ]
 }
