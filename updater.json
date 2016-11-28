@@ -17,9 +17,9 @@
     {
       "nama":"kasir.exe",
       "path":"/",
-      "md5_file":"FFAFC6FB9E5CA9FADA5BB2A51B069BD3",
-      "versi":"3.1.6.0",
-      "download":"https://github.com/Gain-Profit/Kasir/releases/download/v3.1.6.0/kasir-3.1.6.0.zip"
+      "md5_file":"63E957799E97838524B4EB4530648184",
+      "versi":"3.1.7.0",
+      "download":"https://github.com/Gain-Profit/Kasir/releases/download/v3.1.7.0/kasir-3.1.7.0.zip"
     },
     {
       "nama":"payroll.exe",
@@ -31,9 +31,9 @@
     {
       "nama":"pos_server.exe",
       "path":"/",
-      "md5_file":"EF0278770B66F6FFEFC44E22F14B871A",
-      "versi":"3.1.1.0",
-      "download":"https://github.com/Gain-Profit/Merchandiser/releases/download/v3.1.1.0/pos_server-3.1.1.0.zip"
+      "md5_file":"6CA8070D13B5A7C21A8D5669414CF9D7",
+      "versi":"3.1.2.0",
+      "download":"https://github.com/Gain-Profit/Merchandiser/releases/download/v3.1.2.0/pos_server-3.1.2.0.zip"
     },
     {
       "nama":"CheckClock.exe",
