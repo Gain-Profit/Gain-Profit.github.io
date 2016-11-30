@@ -3,16 +3,16 @@
     {
       "nama":"accounting.exe",
       "path":"/",
-      "md5_file":"C44D558B41259BE0C13B7E2B8E0043D4",
-      "versi":"2.1.2.0",
-      "download":"https://github.com/Gain-Profit/Akuntansi/releases/download/v2.1.2.0/accounting-2.1.2.0.zip"
+      "md5_file":"15BC39737A8C29C4D6C87FD2FBE366BD",
+      "versi":"2.1.3.0",
+      "download":"https://github.com/Gain-Profit/Akuntansi/releases/download/v2.1.3.0/accounting-2.1.3.0.zip"
     },
     {
       "nama":"gudang.exe",
       "path":"/",
-      "md5_file":"C2046A79B4E7F83C7D166E1FB7CE74E3",
-      "versi":"4.2.1.0",
-      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v4.2.1.0/gudang-4.2.1.0.zip"
+      "md5_file":"89567C6DB5533720A44C1B5ADE50CFF8",
+      "versi":"4.2.2.0",
+      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v4.2.2.0/gudang-4.2.2.0.zip"
     },
     {
       "nama":"kasir.exe",
