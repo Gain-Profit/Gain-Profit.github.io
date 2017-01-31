@@ -3,21 +3,21 @@
     {
       "nama":"accounting.exe",
       "path":"/",
-      "md5_file":"E66FDB303549CB6999F5303352CF7D0C",
+      "md5_file":"43D5C4D17FDDB508EE31C472256527F0",
       "versi":"2.1.5.0",
       "download":"https://github.com/Gain-Profit/Akuntansi/releases/download/v2.1.5.0/accounting-2.1.5.0.zip"
     },
     {
       "nama":"gudang.exe",
       "path":"/",
-      "md5_file":"8AC66841BAF5BED6BBBAAC764E08BA65",
+      "md5_file":"DE1F1DE9CCB3D5B77297E473DF6AFF62",
       "versi":"4.3.3.0",
       "download":"https://github.com/Gain-Profit/Gudang/releases/download/v4.3.3.0/gudang-4.3.3.0.zip"
     },
     {
       "nama":"kasir.exe",
       "path":"/",
-      "md5_file":"C216188FF77FB3E6F1ADCFE4B7B8058F",
+      "md5_file":"9A0B985A84DE36477A30A74A3F8C8CC9",
       "versi":"3.2.0.0",
       "download":"https://github.com/Gain-Profit/Kasir/releases/download/v3.2.0.0/kasir-3.2.0.0.zip"
     },
@@ -31,7 +31,7 @@
     {
       "nama":"pos_server.exe",
       "path":"/",
-      "md5_file":"52D209E498CD9CB656A3832A274E9BCA",
+      "md5_file":"F96D45C317BDDB9B2D1A3E3B80A55033",
       "versi":"3.1.3.0",
       "download":"https://github.com/Gain-Profit/Merchandiser/releases/download/v3.1.3.0/pos_server-3.1.3.0.zip"
     },
