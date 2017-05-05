@@ -10,9 +10,9 @@
     {
       "nama":"gudang.exe",
       "path":"/",
-      "md5_file":"718A4CFD804569AB7E31C3E211A2C7CC",
-      "versi":"17.4.30.0",
-      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v17.4.30.0/gudang-17.4.30.0.zip"
+      "md5_file":"C348F1F3C65C3A6A7FDB4E027DAD34BA",
+      "versi":"17.5.5.0",
+      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v17.5.5.0/gudang-17.5.5.0.zip"
     },
     {
       "nama":"kasir.exe",
@@ -31,7 +31,7 @@
     {
       "nama":"pos_server.exe",
       "path":"/",
-      "md5_file":"EAFDDC9C8208F40BA669CB7F5804C6D4",
+      "md5_file":"C45AB7273CDDE0F628B964FD7A05A55D",
       "versi":"17.4.27.0",
       "download":"https://github.com/Gain-Profit/Merchandiser/releases/download/v17.4.27.0/pos_server-17.4.27.0.zip"
     },
