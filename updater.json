@@ -3,16 +3,16 @@
     {
       "nama":"accounting.exe",
       "path":"/",
-      "md5_file":"4DE1D86C01486F6DF230AC5C0C6F56B9",
-      "versi":"17.4.13.0",
-      "download":"https://github.com/Gain-Profit/Akuntansi/releases/download/v17.4.13.0/accounting-17.4.13.0.zip"
+      "md5_file":"2FD2EEA68A2F4420F08ACCCFF04157D6",
+      "versi":"17.5.18.0",
+      "download":"https://github.com/Gain-Profit/Akuntansi/releases/download/v17.5.18.0/accounting-17.5.18.0.zip"
     },
     {
       "nama":"gudang.exe",
       "path":"/",
-      "md5_file":"C348F1F3C65C3A6A7FDB4E027DAD34BA",
-      "versi":"17.5.5.0",
-      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v17.5.5.0/gudang-17.5.5.0.zip"
+      "md5_file":"3125CD493CCB453EDB011BAA125CE1FB",
+      "versi":"17.5.18.0",
+      "download":"https://github.com/Gain-Profit/Gudang/releases/download/v17.5.18.0/gudang-17.5.18.0.zip"
     },
     {
       "nama":"kasir.exe",
@@ -41,6 +41,13 @@
       "md5_file":"BA2B7B147C1B83716AC4CE0C87459843",
       "versi":"1.1.2.0",
       "download":"https://github.com/Gain-Profit/Tools/releases/download/v1.1.2.0/CheckClock-1.1.2.0.zip"
+    },
+    {
+      "nama":"dump.exe",
+      "path":"/Tools/",
+      "md5_file":"7D2A2959DA9E5B01CEDB7AA6903A551D",
+      "versi":"1.1.3.0",
+      "download":"https://github.com/Gain-Profit/Tools/releases/download/v1.1.3.0/dump-1.1.3.0.zip"
     },
     {
       "nama":"FRdesign.exe",
